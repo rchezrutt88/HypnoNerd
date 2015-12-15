@@ -43,6 +43,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"HypnosisViewController loaded its view.");
+    
     // Do any additional setup after loading the view.
 }
 
